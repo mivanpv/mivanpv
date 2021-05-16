@@ -1,4 +1,4 @@
-## Bienvenido a mi pagina de githib
+## Bienvenido a mi pagina de github
 
 You can use the [editor on GitHub](https://github.com/mivanpv/mivanpv/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
